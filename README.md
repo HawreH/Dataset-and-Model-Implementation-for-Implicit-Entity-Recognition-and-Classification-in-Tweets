@@ -13,3 +13,4 @@ Tagged tweets have been collected in a four-month time frame spanning from Octob
 
 
 # Source Codes
+As explained in the paper, several features have been designed to train classifiers. The source codes for extraction of these features are provided in Src folder.
